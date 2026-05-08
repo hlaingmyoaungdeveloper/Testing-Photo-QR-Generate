@@ -1,4 +1,4 @@
-package com.soft.photo.utils;
+package com.soft.photo_qr.utils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.common.BitMatrix;

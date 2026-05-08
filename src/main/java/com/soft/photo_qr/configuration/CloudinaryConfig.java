@@ -1,4 +1,4 @@
-package com.soft.photo.configuration;
+package com.soft.photo_qr.configuration;
 
 import java.util.Map;
 

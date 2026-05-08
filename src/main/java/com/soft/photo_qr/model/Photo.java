@@ -1,4 +1,4 @@
-package com.soft.photo.model;
+package com.soft.photo_qr.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

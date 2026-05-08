@@ -1,4 +1,4 @@
-package com.soft.photo.controller;
+package com.soft.photo_qr.controller;
 
 import java.util.List;
 
@@ -16,9 +16,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.soft.photo.model.Photo;
-import com.soft.photo.service.PhotoService;
-import com.soft.photo.utils.GenerateQrCode;
+import com.soft.photo_qr.model.Photo;
+import com.soft.photo_qr.service.PhotoService;
+import com.soft.photo_qr.utils.GenerateQrCode;
+
 
 @RestController
 @RequestMapping("/api/photo")

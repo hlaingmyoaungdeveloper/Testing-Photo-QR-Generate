@@ -1,4 +1,4 @@
-package com.soft.photo;
+package com.soft.photo_qr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

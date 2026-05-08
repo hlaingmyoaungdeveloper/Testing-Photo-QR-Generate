@@ -1,4 +1,4 @@
-package com.soft.photo.service;
+package com.soft.photo_qr.service;
 
 import java.io.IOException;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.cloudinary.Cloudinary;
 import com.cloudinary.utils.ObjectUtils;
-import com.soft.photo.model.Photo;
-import com.soft.photo.repository.PhotoRepository;
+import com.soft.photo_qr.model.Photo;
+import com.soft.photo_qr.repository.PhotoRepository;
 
 @Service
 public class PhotoService {
